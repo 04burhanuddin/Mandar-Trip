@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "391178289093",
+    "project_id": "mandar-trip-52249",
+    "storage_bucket": "mandar-trip-52249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391178289093:android:3022dde5ce611bf871d5ac",
+        "android_client_info": {
+          "package_name": "com.mandartrip.mandar_trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391178289093-1pg9dfaut1fpr419b25cmurjdnc9ftmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmiCqCmlNa7hhsTJxvQSX27ezQ6WLNP3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391178289093-1pg9dfaut1fpr419b25cmurjdnc9ftmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391178289093-1tq445nqup6llkep9474f5grf08f94gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mandartrip.mandarTrip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
